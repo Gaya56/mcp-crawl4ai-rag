@@ -67,7 +67,7 @@ SUPABASE_SERVICE_KEY=<user_supabase_service_key>
 
 - --
 
-## 3. Supabase Database
+## 3. Supabase Database - We have already copied and pasted this into supabase the table is created and ready to go. Please use your supabase mcp server to connect to the database and confirm the table is there.
 
 Reference: [`crawled_pages.sql`](https://github.com/coleam00/mcp-crawl4ai-rag/blob/main/crawled_pages.sql)
 
