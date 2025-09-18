@@ -13,7 +13,8 @@ Define the task to achieve, including specific requirements, constraints, and su
 - If a step fails, revert changes and try again with a corrected approach
 - Validate your work at each milestone before continuing to the next step
 - If stuck, first check the repository documentation, then search for solutions from official sources
-- for this test we will not be using docker we will be using uv to create a virtual environment. Docker is more for production and uv is more for development.
+- for this test we will not be using docker we will be using uv to create a virtual environment. Docker is more for production and uv is more for development. 
+The UV environment is created here : '/workspaces/mcp-crawl4ai-rag/.venv'
 
 # Setup Prompt – Crawl4AI RAG MCP Server
 
