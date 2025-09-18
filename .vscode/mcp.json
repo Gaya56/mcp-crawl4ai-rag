@@ -5,7 +5,7 @@
             "args": [
                 "-y",
                 "@supabase/mcp-server-supabase@latest",
-                "--project-ref=yycmlnxomwxdqsqfccvz"
+                "--project-ref=sjhsvlcandopysgpntgt"
             ],
             "env": {
                 "SUPABASE_ACCESS_TOKEN": "${input:supabase-access-token}"
