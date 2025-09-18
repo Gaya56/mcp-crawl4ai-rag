@@ -4,6 +4,7 @@ mode: agent
 Define the task to achieve, including specific requirements, constraints, and success criteria.
 
 ### Instructions
+
 # Working with MCP-Crawl4AI-RAG:
 - Use all available MCP tools (terminal, filesystem, web browsing, memory, brave search, supabase, python execution)
 - Move one step at a time and verify each step before proceeding
@@ -12,6 +13,7 @@ Define the task to achieve, including specific requirements, constraints, and su
 - If a step fails, revert changes and try again with a corrected approach
 - Validate your work at each milestone before continuing to the next step
 - If stuck, first check the repository documentation, then search for solutions from official sources
+- for this test we will not be using docker we will be using uv to create a virtual environment. Docker is more for production and uv is more for development.
 
 # Setup Prompt – Crawl4AI RAG MCP Server
 
