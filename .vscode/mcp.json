@@ -50,6 +50,10 @@
                 "BRAVE_API_KEY": "BSAsnySCtYJPtVM2HPuWd-wf1Dj69xd"
             },
             "type": "stdio"
+        },
+        "crawl4ai-rag": {
+            "url": "http://localhost:8051/sse",
+            "type": "sse"
         }
     },
     "inputs": [
