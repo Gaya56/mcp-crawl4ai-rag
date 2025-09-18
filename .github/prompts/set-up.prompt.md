@@ -108,7 +108,7 @@ python src/crawl4ai_mcp.py
 ## 6. Test Crawl & Query
 
 Tools: `smart_crawl_url`, `perform_rag_query`
-
+- They’re exposed in the server code (src/crawl4ai_mcp.py) and documented in the README under the “Test Crawl & Query” section. So you don’t have to add them yourself — just configure .env, start the server, and those tools are available for use.
 - Crawl Alberta URLs:
 
 - https://www.aer.ca/
@@ -116,6 +116,7 @@ Tools: `smart_crawl_url`, `perform_rag_query`
 - https://www.alberta.ca/mineral-ownership
 
 - https://content2.energy.alberta.ca/petroleum-and-natural-gas-tenure-public-offerings-and-results
+
 
 - Run query:
 
